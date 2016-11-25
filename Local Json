@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"nome":"Google",
+	"endereco":"5, 48 Pirrama Road, Pyrmont NSW 2009, Australia",
+	"telefone":"+61 2 9374 4000",
+	"localizacao":"lat:-33.866611, lng: 151.195832",
+	"tipos":"estabelecimento",
+	"acessibilidade":"3",
+	"url":"https://plus.google.com/11133345",
+	"website":"https://developers.google.com/maps/documentation/javascript/localization",
+	"icone":"https://maps.gstatic.com/mapfiles/places_api",
+	"status":"OK"
+}
